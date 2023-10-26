@@ -1,0 +1,1 @@
+console.log(WEATHER_API_KEY);
